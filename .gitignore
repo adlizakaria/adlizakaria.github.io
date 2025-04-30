@@ -1,0 +1,32 @@
+# System and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Local development and build artifacts
+node_modules/
+dist/
+build/
+
+# Sensitive or configuration files
+.env
+*.local
+*.bak
+*.backup
+
+# Logs and caches
+*.log
+.cache/
+*.cache
+
+# Miscellaneous
+*.DS_Store
+*.orig
